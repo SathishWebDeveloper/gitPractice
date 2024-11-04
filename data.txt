@@ -23,7 +23,14 @@ function sub(a,b){
     return a - b;
 }
 
-sub(7,8);
+sub(7,8); 
+
+git change 
+import React from 'react'; 
+const Data  = () => {
+    console.log("test")
+}
+Data("solve the conflicts gokul and working on it and push my code");
 
 
 
