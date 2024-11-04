@@ -1,3 +1,7 @@
+function add(){
+    return 5 + 5;
+}
+add();// sathish 
 
 
 hai i am gokul vasan and aswin 
@@ -15,3 +19,8 @@ function multiply(firstval, secondval) {
 let result = multiply(4, 3);
 
 division function by aswin
+function sub(a,b){
+    return a - b;
+}
+
+sub(7,8);
