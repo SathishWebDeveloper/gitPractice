@@ -1,7 +1,7 @@
 function add(){
     return 5 + 5;
 }
-add();// sathish 
+add();// sathish kumar
 
 
 hai i am gokul vasan and aswin 
@@ -13,7 +13,7 @@ this is the second commit ill done
 hello  mitrahsoft !!!!
 
 function multiply(firstval, secondval) {
-  return firstval * secondval;
+  return firstval * thirdval;
 }
 
 let result = multiply(4, 3);
@@ -24,6 +24,13 @@ function sub(a,b){
 }
 
 sub(7,8);
+
+git commit by sathish 
+
+function sathish(){
+    console.log("sathish")
+}
+sathish();
 
 //to remove duplicates elements from an array.
 
