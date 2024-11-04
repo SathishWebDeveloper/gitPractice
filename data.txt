@@ -82,4 +82,11 @@ function findLongestWord(inputSentence){
     return longestWord;
 }
 
-console.log(findLongestWord("remember the original value, then increment the variable; the value of the expression is the original value")) 
+console.log(findLongestWord("remember the original value, then increment the variable; the value of the expression is the original value"))
+
+function div(a,b){
+    return a / b;
+}
+div(7,8); 
+
+// ash div
