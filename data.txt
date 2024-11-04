@@ -7,3 +7,10 @@ Hi i am sathish I create a new page
 this is the second commit ill done 
 
 hello  mitrahsoft !!!!
+function Division()
+{
+const a=10;
+const b=20;
+const c = a%b;
+}
+Division()
