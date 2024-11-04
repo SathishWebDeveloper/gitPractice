@@ -76,3 +76,10 @@ function findLongestWord(inputSentence){
 }
 
 console.log(findLongestWord("remember the original value, then increment the variable; the value of the expression is the original value"))
+
+function div(a,b){
+    return=a/b;
+}
+div(2,2)
+
+// aswin div
