@@ -60,3 +60,19 @@ function removeDuplicates(inputArray){
 }
 
 console.log(removeDuplicates([0,1,2,3,4,5,6,4,3,2,0]))
+
+///to find the longest word in a given sentence.
+
+function findLongestWord(inputSentence){
+    const splittedString = inputSentence.split(' ');
+    let longestWord = '';
+    
+    for(let word of splittedString){
+        if(word.length > longestWord){
+            longestWord = word;
+        }
+    }
+    return longestWord;
+}
+
+console.log(findLongestWord("remember the original value, then increment the variable; the value of the expression is the original value"))
