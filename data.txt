@@ -13,3 +13,5 @@ function multiply(firstval, secondval) {
 }
 
 let result = multiply(4, 3);
+
+division function by aswin
