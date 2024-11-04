@@ -23,6 +23,106 @@ function sub(a,b){
     return a - b;
 }
 
+sub(7,8); 
+
+git change 
+import React from 'react'; 
+const Data  = () => {
+    console.log("test")
+}
+Data("solve the conflicts gokul and working on it and push my code");
+
+
+
+hai i am gokul vasan and aswin 
+
+Hi i am sathish I create a new page 
+
+this is the second commit ill done 
+
+hello  mitrahsoft !!!!
+function Division()
+{
+const a=10;
+const b=20;
+const c = a%b;
+}
+Division()
+=======
+
+git commit by sathish 
+
+function sathish(){
+    console.log("sathish")
+}
+sathish();
+
+//to remove duplicates elements from an array.
+
+function removeDuplicates(inputArray){
+    const modifiedArray = [...new Set(inputArray)];
+    modifiedArray.push(8)
+    
+    return modifiedArray;
+}
+
+console.log(removeDuplicates([0,1,2,3,4,5,6,4,3,2,0]))
+
+///to find the longest word in a given sentence.
+
+function findLongestWord(inputSentence){
+    const splittedString = inputSentence.split(' ');
+    let longestWord = '';
+    
+    for(let word of splittedString){
+        if(word.length > longestWord){
+            longestWord = word;
+        }
+    }
+    return longestWord;
+}
+
+console.log(findLongestWord("remember the original value, then increment the variable; the value of the expression is the original value"))
+
+function div(a,b){
+    return a / b;
+}
+div(7,8); 
+
+// ash div
+
+// git 10 fun 
+
+function add(a,b){
+    return a+b;
+}
+add(2,2)
+
+// ash addfunction add(){
+    return 5 + 5;
+}
+add();// sathish kumar
+
+
+hai i am gokul vasan and aswin 
+
+Hi i am sathish I create a new page 
+
+this is the second commit ill done 
+
+hello  mitrahsoft !!!!
+
+function multiply(firstval, secondval) {
+  return firstval * thirdval;
+}
+
+let result = multiply(4, 3);
+
+division function by aswin
+function sub(a,b){
+    return a - b;
+}
+
 sub(7,8);
 
 
