@@ -24,3 +24,14 @@ function sub(a,b){
 }
 
 sub(7,8);
+
+//to remove duplicates elements from an array.
+
+function removeDuplicates(inputArray){
+    const modifiedArray = [...new Set(inputArray)];
+    modifiedArray.push(8)
+    
+    return modifiedArray;
+}
+
+console.log(removeDuplicates([0,1,2,3,4,5,6,4,3,2,0]))
