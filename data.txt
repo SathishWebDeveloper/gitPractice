@@ -7,3 +7,9 @@ Hi i am sathish I create a new page
 this is the second commit ill done 
 
 hello  mitrahsoft !!!!
+
+function multiply(firstval, secondval) {
+  return firstval * secondval;
+}
+
+let result = multiply(4, 3);
