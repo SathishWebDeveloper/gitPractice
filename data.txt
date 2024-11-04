@@ -1,16 +1,12 @@
 
-<<<<<<< HEAD
-
-hai i am gokul vasan and aswin 
-
-Hi i am sathish I create a new page 
-
-this is the second commit ill done 
-
-hello  mitrahsoft !!!!
-=======
 this is the new changes 
 
 
 i am the third person 
->>>>>>> 34009b7560d881cb9e38746aca97dfa0903a0754
+
+
+function sub(a,b){
+    return a - b;
+}
+
+console.log(sub(5,6))
