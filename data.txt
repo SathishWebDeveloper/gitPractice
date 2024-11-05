@@ -138,3 +138,6 @@ I work at mitrahsoft
 const arr = [1, 4, 9, 16];
 const mapping = arr.map((x) => x * 2);
 console.log(mapping);
+
+let finalsentence= "this is the last commit" ;
+console.log(finalsentence)
