@@ -101,3 +101,9 @@ add(2,2)
 // ash add
 
 hi guys this is my second commit out of 10
+
+function sub(a,b){
+    return a-b;
+}
+sub(5,3);
+// ash 3rd commit sub
