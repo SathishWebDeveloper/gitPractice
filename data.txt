@@ -128,6 +128,9 @@ let statement = hi guys this is aswin suriya
 console.log(statement);
 // this is 6 th commit 
 
-const array1 = [5, 12, 8, 130, 44];
-const found = array1.find((element) => element > 10);
+const array = [5, 12, 8, 130, 44];
+const found = array.find((element) => element > 10);
 console.log(found);
+
+hai I am aswin suriya from coimbatore
+I work at mitrahsoft 
