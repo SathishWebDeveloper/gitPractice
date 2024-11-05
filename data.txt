@@ -99,3 +99,5 @@ function add(a,b){
 add(2,2)
 
 // ash add
+
+hi guys this is my second commit out of 10
