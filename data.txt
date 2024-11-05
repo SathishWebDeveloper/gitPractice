@@ -123,3 +123,7 @@ console.log(val);
 
 // this is 5 th commit square
 this is gokul // 
+
+let statement = hi guys this is aswin suriya
+console.log(statement);
+// this is 6 th commit 
