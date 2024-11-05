@@ -107,3 +107,10 @@ function sub(a,b){
 }
 sub(5,3);
 // ash 3rd commit sub
+
+function multiply(a,b){
+    return a*b;
+}
+multiply(5,5);
+
+// ash 4 th commit multiply
